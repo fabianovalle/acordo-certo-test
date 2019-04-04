@@ -1,0 +1,2 @@
+npm install inisde directory
+yarn start for run server frontend.
